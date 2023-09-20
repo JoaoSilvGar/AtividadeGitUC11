@@ -8,3 +8,8 @@
 
 * Comando para mexer nas branches, ramificações de um repositório, onde as branches podem ser criadas, modificadas, deletadas, etc.
 *Ex: git branch nova_branch*
+
+### Git Push:
+
+* Comando usado para enviar as mudanças feitas no repositório local para alguma branch no repositório remoto, vale ressaltar que para realizar o push devem ser adicionados os arquivos desejados e feito o commit deles.
+*Ex: git push*
