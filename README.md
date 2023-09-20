@@ -13,3 +13,10 @@
 
 * Comando usado para enviar as mudanças feitas no repositório local para alguma branch no repositório remoto, vale ressaltar que para realizar o push devem ser adicionados os arquivos desejados e feito o commit deles.
 *Ex: git push*
+
+### Git Checkout:
+
+* Comando utilizado principalmente para alternar entre branches e commits.
+*Ex: git checkout nome_branch*
+*Ex: git checkout hash_commit*
+
