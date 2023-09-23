@@ -1,6 +1,6 @@
 # Níveis de Teste
 
-## Integração:
+## Unitário:
 
-Teste focado para a detecção de falhas de integração interna dos componentes de um sistema, onde os módulos são combinados e unidades de software e hardware são testados em conjunto. Vale ressaltar que nesse nível não faz parte testar o sistema produzido com outros sistemas.
+Consiste em testar a lógica de trechos do código e da implementação em cada módulo, onde existe um teste com o determinado retorno esperado e, caso este retorno não aconteça pode haver uma falha ou exceção. No caso do Java, é muito utilizado a framework JUnit.
 
