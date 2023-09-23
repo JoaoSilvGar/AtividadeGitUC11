@@ -41,5 +41,10 @@
 ### Git Pull:
 
 * Comando que baixa o conteúdo diferente entre o repositório remoto e o local, seus commits diferentes e faz o merge, a mescla, entre os arquivos caso precise.\
-*Ex git pull repositório_remoto*
+*Ex: git pull repositório_remoto*
+
+### Git Revert:
+
+* Comando mais seguro para desfazer mudanças, como commits e add. Nele, ao invés de deletar os arquivos, vai ser criado um novo commit revertendo essas mudanças, mantendo assim os arquivos.\
+*Ex: git revert commit_desejado*
 
