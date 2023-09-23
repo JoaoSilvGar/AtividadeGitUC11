@@ -20,3 +20,8 @@
 *Ex: git checkout nome_branch*
 *Ex: git checkout hash_commit*
 
+### Git Status:
+
+* Comando para verificar o status de um repositório local, se algum arquivo foi alterado, deletado, criado, etc. Também se existem arquivos pendentes para ser feito o commit.
+*Ex: git status*
+
