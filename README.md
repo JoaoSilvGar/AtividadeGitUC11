@@ -48,3 +48,7 @@
 * Comando mais seguro para desfazer mudanças, como commits e add. Nele, vai ser criado um novo commit revertendo essas mudanças, podendo manter outros commits que não precisam ser desfeitos.\
 *Ex: git revert commit_desejado*
 
+### Git Merge
+
+* Comando utilizado para unificar/mesclar um branch que foi bifurcado, fazendo com que essas ramificações se tornem um único "caminho". Caso apareça conflitos de arquivos com a mesma linha sendo alterada em branches diferentes precisa ser decidido qual irá prevalecer para o merge.\
+*Ex: git merge branch_alternativo*
