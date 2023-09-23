@@ -32,3 +32,8 @@
 *Ex: git add nome_diretório*
 *Ex: git add .* - (adiciona todos os arquivos e pastas que foram modificadas)
 
+### Git Commit:
+
+* Pode ser traduzido como "enviar"/"entregar", esse comando é utilizado para pegar os arquivos na área de staging (adicionados pelo comando *add*) e prepará-lo para enviar para o repositório remoto, criando snapshots, estado de um sistema em um determinado ponto no tempo. É extremamente importante para o controle de versionamento do sistema.\
+*Ex: git commit -m "mensagem_desejada"*
+
