@@ -25,3 +25,10 @@
 * Comando para verificar o status de um repositório local, se algum arquivo foi alterado, deletado, criado, etc. Também se existem arquivos pendentes para ser feito o commit.
 *Ex: git status*
 
+### Git Add:
+
+* Comando que adiciona arquivos modificados de alguma forma para a área de staging, funcionando como um buffer entre o repositório local e o histórico do projeto. Nele ficam armazenados os arquivos/diretórios que estão para ser commitados.
+*Ex: git add nome_arquivo*
+*Ex: git add nome_diretório*
+*Ex: git add .* - (adiciona todos os arquivos e pastas que foram modificadas)
+
